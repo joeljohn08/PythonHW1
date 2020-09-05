@@ -17,7 +17,7 @@ elif lettergrade1 == "B-":
   gradepoint1 = 2.67
 elif lettergrade1 == "C+":
   gradepoint1 = 2.33
-elif lettergrade1 == "C-":
+elif lettergrade1 == "C":
   gradepoint1 = 2.0
 elif lettergrade1 =="D":
   gradepoint1 = 1.0
@@ -42,7 +42,7 @@ elif lettergrade2 == "B-":
   gradepoint2 = 2.67
 elif lettergrade2 == "C+":
   gradepoint2 = 2.33
-elif lettergrade2 == "C-":
+elif lettergrade2 == "C":
   gradepoint2 = 2.0
 elif lettergrade2 =="D":
   gradepoint2 = 1.0
@@ -67,7 +67,7 @@ elif lettergrade3 == "B-":
   gradepoint3 = 2.67
 elif lettergrade3 == "C+":
   gradepoint3 = 2.33
-elif lettergrade3 == "C-":
+elif lettergrade3 == "C":
   gradepoint3 = 2.0
 elif lettergrade3 =="D":
   gradepoint3 = 1.0
