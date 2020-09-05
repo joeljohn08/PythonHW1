@@ -32,7 +32,7 @@ credit2 = int(credit2)
 #loop to assign gradepoint for course 2
 if lettergrade2 == "A":
   gradepoint2 = 4.0
-elif lettergrade1 == "A-":
+elif lettergrade2 == "A-":
   gradepoint2 = 3.67
 elif lettergrade2 == "B+":
   gradepoint2 = 3.33
